@@ -3,13 +3,14 @@ layout: home
 title: Olivier Proulx
 subtitle: Been' making games since 1993
 ---
+# About Me
+blah blah blah, i am very cool and awsome and you would love to read more
+[Read More](aboutme)
 
-My name is Inigo Montoya. I have the following qualities:
+# Skills
+I have loads of skills look at them
+|Python| JS| Poop|
+|C#| Unity| Poop|
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
+# Projects
+Here are a few projects
